@@ -18,6 +18,7 @@
 如果您有任何问题或建议，请通过以下方式与我们联系：
 
 邮箱：liheng2137@qq.com
+
 GitHub：https://github.com/lmliheng
 ## 使用协议
 本仓库中的所有图标资源均遵循 `MIT` 协议。
